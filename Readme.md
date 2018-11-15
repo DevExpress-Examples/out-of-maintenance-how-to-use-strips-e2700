@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/UseStrips/MainPage.xaml) (VB: [MainPage.xaml](./VB/UseStrips/MainPage.xaml))
+<!-- default file list end -->
 # How to use strips
 
 
